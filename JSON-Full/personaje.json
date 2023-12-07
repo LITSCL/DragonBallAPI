@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c376"
+  },
+  "nombre": "Goku",
+  "raza": "Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Goku, nacido como Kakaroto, es un Saiyajin masculino y el protagonista principal de la serie Dragon Ball. Goku es un Saiyajin enviado originalmente a la Tierra como un bebé con la misión de destruir a su gente. Sin embargo, un accidente altera su memoria, permitiéndole crecer para convertirse en el defensor más grande de la Tierra y el líder informal del Equipo Dragón. Constantemente se esfuerza y entrena para ser el guerrero más grande posible, lo que ha mantenido a salvo la Tierra y el universo de la destrucción en muchas ocasiones.",
+  "ataque": 50000,
+  "imagen": "http://localhost:2800/resources/Goku.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c377"
+  },
+  "nombre": "Vegeta",
+  "raza": "Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Vegeta es el Príncipe de una raza extraterrestre de guerreros conocidos como los Saiyajin, al igual que el protagonista de la serie, Goku. Vegeta es extremadamente vanidoso y orgulloso, haciendo referencia constantemente a su herencia a lo largo de la serie. Cree que debería ser considerado el luchador más fuerte del Universo y se obsesiona con superar a Goku después de enfrentarse a él. Tras su derrota ante Goku y los Z Fighters, Vegeta se une posteriormente de mala gana a los héroes para frustrar mayores amenazas para el universo. A lo largo de la serie, el papel de Vegeta cambia de villano a antihéroe y luego como uno de los héroes, manteniéndose como rival de Goku. El personaje de Vegeta, especialmente su personalidad, ha sido muy bien recibido. Es uno de los personajes más populares de la franquicia Dragon Ball.",
+  "ataque": 49000,
+  "imagen": "http://localhost:2800/resources/Vegeta.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c378"
+  },
+  "nombre": "Gohan",
+  "raza": "Humano/Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Gohan es un personaje ficticio en la serie de manga Dragon Ball, creado por Akira Toriyama. Gohan es presentado como el primer hijo del protagonista Goku y su esposa Chi-Chi, en el capítulo #196 Kakarrot, publicado por primera vez en la revista Weekly Shōnen Jump el 8 de octubre de 1988. Chi-Chi es una madre estricta y protectora con Gohan, obligándolo a concentrarse en sus estudios y prohibiéndole practicar artes marciales. Sin embargo, debido a las diversas amenazas a la Tierra, ella le permite a regañadientes que luche, convirtiéndose finalmente en uno de los personajes más fuertes de la serie. Gohan ha sido muy bien recibido tanto por los fanáticos como por los críticos, siendo estos últimos quienes generalmente destacan el crecimiento del personaje desde su aparición inicial hasta su derrota de Cell.",
+  "ataque": 38000,
+  "imagen": "http://localhost:2800/resources/Gohan.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c379"
+  },
+  "nombre": "Trunks",
+  "raza": "Humano/Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Trunks tiene el color de cabello lavanda de su abuelo (azul en el manga) y los ojos azules de su madre. Posee la forma de ojos, rasgos faciales y piel bronceada de su padre, y su cabello se vuelve rubiografia y sus ojos adquieren un color verde (sin pupilas) cuando se transforma en Super Saiyajin. Varios personajes, como Goku, Krilin y Bulma, comentan cuánto Trunks se parece a Vegeta. Durante la mayor parte de la Saga de Buu, el Trunks del Presente viste un gi verde oscuro, un cinturón naranja, muñequeras naranjas y las mismas botas doradas que lleva el Trunks del Futuro; también lleva esto en la película Bio-Broly. En los eventos de Broly - Second Coming, Trunks usa una sudadera verde claro de manga larga con una camiseta negra de manga corta debajo con un cuello rojo, shorts de mezclilla azul índigo y sus botas doradas de su atuendo principal. Más tarde, lleva el collar de Maloja. En Dragon Ball Z: La Batalla de los Dioses, Trunks usa un overol y una camiseta azul con muñequeras granate. Al final de Dragon Ball Z, Trunks lleva una camisa negra de manga larga, un chaleco dorado, pantalones gris oscuro y las mismas botas doradas que usaba cuando era niño. Más tarde, usa una camiseta sin mangas negra con el logotipo de CAPSULE en el centro de su camisa, pantalones grises y las botas de su infancia.",
+  "ataque": 44000,
+  "imagen": "http://localhost:2800/resources/Trunks.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c37a"
+  },
+  "nombre": "Freezer",
+  "raza": "Desconocido",
+  "genero": "Masculino",
+  "biografia": "Freezer, romanizado como Freeza en la mercancía japonesa, los subtítulos en inglés de Funimation y la versión del manga de Viz Media, es un personaje ficticio en la serie de manga Dragon Ball creada por Akira Toriyama. Freezer hace su debut en el Capítulo #247: Nubes Oscuras se Arremolinan sobre el Planeta nombrek, publicado por primera vez en la revista Weekly Shōnen Jump el 6 de octubre de 1989, como un tirano galáctico temido como el ser más poderoso en el universo. A pesar de no aparecer hasta la segunda mitad del manga, Freezer es considerado el antagonista más icónico de la franquicia de Dragon Ball debido a que sirve efectivamente como el catalizador de muchos de los eventos representados en la historia, como la llegada de Goku a la Tierra, los Saiyajinos aterrizando en la Tierra y posteriormente los personajes principales yendo al planeta nombrek. En sus apariciones en el manga en sí, también es directamente responsable del asesinato del padre de Goku, Bardock, del genocidio de la raza Saiyajin, de la muerte de Vegeta y de la segunda muerte del mejor amigo de Goku, Krilin, haciendo de él el enemigo más personal y significativo de Goku. La confrontación final entre Goku y Freezer ha sido aclamada como una de las batallas de manga y anime más memorables de todos los tiempos.",
+  "ataque": 47000,
+  "imagen": "http://localhost:2800/resources/Freezer.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c37b"
+  },
+  "nombre": "Cell",
+  "raza": "Android",
+  "genero": "Masculino",
+  "biografia": "Cell es la creación definitiva del Dr. Gero, que provino de una línea temporal futura, diseñado para poseer todas las habilidades de los mejores luchadores que han habitado o visitado la Tierra; el resultado fue un guerrero perfecto, con numerosas características genéticas favorables y habilidades especiales. Fue uno de los pocos androides de la Cinta Roja que no fue completado directamente por el Dr. Gero; fue completado por la supercomputadora del Dr. Gero. Es el principal antagonista de las sagas de Cell Imperfecto, Cell Perfecto y los Juegos de Cell.",
+  "ataque": 20000,
+  "imagen": "http://localhost:2800/resources/Cell.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c37c"
+  },
+  "nombre": "Majin Buu",
+  "raza": "Majin",
+  "genero": "Masculino",
+  "biografia": "Majin Buu, generalmente escrito como Majin Boo en los subtítulos del anime japonés y representado como Djinn-Boo en el manga de Viz Media, es un personaje ficticio y el antagonista final en la serie de manga Dragon Ball creada por Akira Toriyama. Se presenta en el capítulo #460 ¿Aparece Majin Boo?! (¡Majin Bū Shutsugen ka!?) publicado por primera vez en la revista Weekly Shōnen Jump el 1 de marzo de 1994. Majin Buu es una forma de vida mágica similar a un genio creada por el malvado hechicero Bibidi que aterrorizó galaxias destruyendo planetas enteros, millones de años antes de los eventos de Dragon Ball. Fue sellado temporalmente y llevado a la Tierra; sin embargo, Bibidi fue asesinado y Buu permaneció oculto. Durante los eventos de Dragon Ball, es revivido por el hijo de Bibidi, Babidi, con el fin de llevar a cabo el plan de su padre de conquistar todo el universo.",
+  "ataque": 29000,
+  "imagen": "http://localhost:2800/resources/Majin_Buu.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c37d"
+  },
+  "nombre": "Beerus",
+  "raza": "Dios",
+  "genero": "Masculino",
+  "biografia": "Beerus, el Dios de la Destrucción, es un personaje en la franquicia Dragon Ball creada por Akira Toriyama. Beerus hizo su primera aparición en la película de 2013 Dragon Ball Z: La Batalla de los Dioses como el principal antagonista y regresó como un personaje secundario en Dragon Ball Z: La Resurrección de 'F', además de ser uno de los personajes principales en Dragon Ball Super. Es un dios morado con apariencia de gato esfinge que lleva ropa y adornos tradicionales egipcios, cuya ocupación es mantener el equilibrio destruyendo planetas, en contraste con los Kaiō-shin que los crean y preservan. Se ha afirmado que Beerus es capaz de destruir estrellas según Whis. A menudo se le ve destruyendo planetas a capricho; los dos únicos deseos de Beerus son disfrutar de la cocina más fina del universo y luchar contra oponentes que considere dignos. Esto último lo lleva a buscar al Super Saiyajin God, que resulta ser uno de los Saiyajin que ahora viven en la Tierra. Finalmente, Son Goku, con la ayuda de otros Saiyajin, se transforma en el Super Saiyajin God y lucha contra Beerus, solo para ser derrotado por el Dios de la Destrucción. Al haber disfrutado del combate, Beerus perdona tanto a Goku como a la Tierra, diciendo que Goku fue el segundo oponente más fuerte que jamás enfrentó, siendo el primero su cuidador y maestro de artes marciales, Whis.",
+  "ataque": 60000,
+  "imagen": "http://localhost:2800/resources/Beerus.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c37e"
+  },
+  "nombre": "Piccoro",
+  "raza": "Namekiano",
+  "genero": "Masculino",
+  "biografia": "Piccoro Jr., generalmente conocido solo como Piccoro y también como Ma Junior, es un Namekiano y también el hijo final y reencarnación del Rey Demonio Piccoro, que luego se convierte en la reunificación del Namekiano sin nombre después de fusionarse con Kami. Según el Gran Anciano Guru, Piccoro, junto con Kami y el Rey Piccoro, forman parte del Clan del Dragón, que fueron los creadores originales de las Esferas del Dragón. Un guerrero sabiografia y astuto que originalmente fue un enemigo despiadado de Goku, Piccoro luego se convierte en un miembro permanente del Equipo Dragón, en gran parte debido a formar un respeto mutuo con Goku y aún más por establecer un estrecho vínculo con el hijo primogénito de Goku, Gohan.",
+  "ataque": 25000,
+  "imagen": "http://localhost:2800/resources/Piccoro.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c37f"
+  },
+  "nombre": "Gotenks",
+  "raza": "Humano/Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Gotenks, anteriormente conocido como Trunkten, es el resultado inmensamente poderoso de Trunks y Goten utilizando con éxito la Danza de la Fusión, y el primer personaje de la serie Dragon Ball en utilizar exitosamente esta técnica de fusión. Le gusta llamarse a sí mismo El Héroe de la Justicia o La Parca de la Justicia.",
+  "ataque": 35000,
+  "imagen": "http://localhost:2800/resources/Gotenks.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c380"
+  },
+  "nombre": "Hit",
+  "raza": "Desconocido",
+  "genero": "Masculino",
+  "biografia": "Hit, conocido como Hit, el Nunca-Fallar y como el Legendario Asesino a Sueldo, es el legendario asesino del Universo 6. Además, más adelante se convierte en el líder del Equipo del Universo 6. Hit muestra pocas emociones, le gusta desafiarse a sí mismo y es honorable.",
+  "ataque": 46000,
+  "imagen": "http://localhost:2800/resources/Hit.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c381"
+  },
+  "nombre": "Krilin",
+  "raza": "Humano",
+  "genero": "Masculino",
+  "biografia": "Krilin es un protagonista secundario en el manga Dragon Ball y en las series de anime Dragon Ball, Dragon Ball Z, Dragon Ball GT y Dragon Ball Super. Krilin tuvo una breve rivalidad con Goku cuando se conocieron y entrenaron bajo la tutela del Maestro Roshi, pero rápidamente se convirtieron en mejores amigos de por vida. Uno de los artistas marciales más poderosos y talentosos de la Tierra, Krilin es valiente, un aliado fiel y de buen corazón. Es un destacado luchador Z, a pesar de ser superado por lo general por los principales enemigos. Su baja estatura y calvicie (excepto cuando deja crecer su cabello en la Saga de Majin Buu en adelante) le ayudan en su habilidad para proporcionar alivio cómico durante momentos tensos. Durante la segunda mitad de Dragon Ball Z, se retira en gran medida de la lucha, optando por establecerse con su familia, convirtiéndose en el esposo de la Androide 18 y el padre de Marron. Sin embargo, regresa a su estilo de vida como guerrero más adelante en Dragon Ball Super.",
+  "ataque": 20000,
+  "imagen": "http://localhost:2800/resources/Krilin.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c382"
+  },
+  "nombre": "Jiren",
+  "raza": "Desconocido",
+  "genero": "Masculino",
+  "biografia": "Jiren, también conocido como Jiren el Gris, es un miembro de los Pride Troopers que participó en el Torneo de Poder con el propósito de obtener un deseo de las Super Dragon Balls. Jiren es un luchador tranquilo y honorable, que cree en la fuerza y la justicia.",
+  "ataque": 74000,
+  "imagen": "http://localhost:2800/resources/Jiren.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c383"
+  },
+  "nombre": "Tien",
+  "raza": "Humano",
+  "genero": "Masculino",
+  "biografia": "Tien Shinhan es un artista marcial disciplinado, recluso y profundamente dedicado, y uno de los terrícolas más fuertes dentro del universo de Dragon Ball. También posee algunas características no humanas debido a ser descendiente de la gente de los Tres Ojos. Originalmente fue estudiante de la Escuela de la Grulla y buscaba venganza contra Goku por derrotar a su mentor, Mercenario Tao, pero se dio cuenta de que estaba en el lado equivocado con la ayuda del Maestro Roshi. Lucha junto a los demás luchadores Z cuando surgen amenazas importantes para la Tierra, enfrentándose valientemente a enemigos mucho más poderosos que él. Sin embargo, pasa la mayor parte de su tiempo entrenando con su mejor amigo de toda la vida, Chiaotzu.",
+  "ataque": 18000,
+  "imagen": "http://localhost:2800/resources/Tien.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c384"
+  },
+  "nombre": "Androide 17",
+  "raza": "Androide",
+  "genero": "Masculino",
+  "biografia": "Androide 17, llamado Lapis cuando era un humano común, es el hermano gemelo de Androide 18 y la decimoséptima creación androide del Dr. Gero, diseñado para cumplir la vendetta de Gero contra Goku. A pesar de que sus intereses inicialmente no se apartan de esta expectativa, Androide 17 decide matar al Dr. Gero, quien no coopera con la curiosidad de Androide 18 de activar a Androide 16 y es considerado inferior por el 17. Androide 17 regresa una década después en Dragon Ball Super, trabajando como guardabosques en un parque nacional para preservar la vida silvestre de los cazadores furtivos. Está casado y tiene un hijo, además de adoptar a dos niños más. Goku le pide que se una al Equipo Universo 7 en el Torneo de Poder y, debido al sacrificio de Goku y Freezer para eliminar a Jiren, queda como el único luchador al final del torneo y el encargado de realizar el deseo con las Super Dragon Balls.",
+  "ataque": 43000,
+  "imagen": "http://localhost:2800/resources/Androide_17.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c385"
+  },
+  "nombre": "Androide 18",
+  "raza": "Androide",
+  "genero": "Femenino",
+  "biografia": "Androide 18, Humano Artificial No. 18, Razuri cuando era una humana común, es la hermana gemela de Android 17 y la decimoctava creación androide del Dr. Gero, diseñada para cumplir la vendetta de Gero contra Goku. Aunque inicialmente sus intereses no se apartan de esta expectativa, su curiosidad por activar a Androide 16, a pesar de las órdenes de Gero de no hacerlo, lleva a Androide 17 a decidir asesinar a Gero. Con el tiempo, Androide 18 se convierte en miembro de los Luchadores Z, así como la esposa de Krilin y la madre de su hija Marron.",
+  "ataque": 40000,
+  "imagen": "http://localhost:2800/resources/Androide_18.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c386"
+  },
+  "nombre": "Broly",
+  "raza": "Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Broly es el principal antagonista en la trilogía Broly Triple Threat. Parece ser el último de los Super Saiyajin Legendarios que aparece cada mil años. Su padre es Paragus. Broly es un Saiyajin de piel clara con ojos oscuros y cabello negro y puntiagudo que llega hasta la mitad de su espalda, con mechones cortos que enmarcan su frente. Cuando era niño, llevaba una túnica negra de un solo tirante con pantalones grises y botas marrones, junto con un cinturón de cuerda y pulseras. De adulto, Broly es muy alto con una complexión delgada pero bien construida. Su expresión facial, incluso antes de llevar la corona, tenía un aire melancólico. Está sin camisa y lleva pantalones blancos con una banda roja que le rodea la cintura y está asegurada con un cinturón amarillo con una gema azul en el centro. También lleva botas amarillas similares con una gema azul en la parte superior del frente. Se sugiere que el atuendo está hecho de un material similar a la Armadura de Batalla; independientemente de la transformación que aumente su tamaño que utilizara, su ropa siempre permanecía intacta y crecía en tamaño con él. Para controlar mejor a Broly y su poder a medida que su inestabilidad mental continuaba creciendo, Paragus colocó una corona en la frente de Broly, junto con pulseras y un collar con una placa plana sobre el pecho, cada uno dorado con una gema azul. Broly también llevaba brazaletes dorados en sus bíceps. Después de liberarse del control de Paragus, la corona y los brazaletes de Broly fueron destruidos. Después de la derrota de Broly contra Goku, obtuvo marcas de quemaduras en su pecho.",
+  "ataque": 80000,
+  "imagen": "http://localhost:2800/resources/Broly.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c387"
+  },
+  "nombre": "Vegito",
+  "raza": "Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Vegito, llamado Vegerot en el manga en inglés de Viz, es el resultado inmensamente poderoso de la fusión entre Goku y Vegeta mediante el uso de los Aretes de Pothala. Vegito es el personaje más poderoso en el manga de Dragon Ball. Su contraparte de la Danza de la Fusión es Gogeta. Vegito es una mezcla de las características de Goku y Vegeta, con algunas desviaciones. Tiene el mismo tipo de cuerpo que Goku, mientras que el color de su cabello es marrón oscuro a marrón rojizo. Tiene la mandíbula más suave de Goku y los ojos más afilados de Vegeta. El estilo superior del cabello de Vegito se mantiene firmemente hacia arriba como el de Vegeta, mientras tiene la línea del cabello de Goku y dos mechones que sobresalen en forma de V hacia abajo. Cuando se transforma en Super Saiyajin o Super Saiyajin Blue, la forma de su cabello permanece igual. Vegito lleva dos aretes de Pothala amarillos como resultado de la fusión de Pothala, y viste la ropa al estilo de Goku con los colores invertidos, reflejando el atuendo de Vegeta; lleva un gi azul y una faja con una camiseta naranja. También lleva guantes y botas blancas, que son de Vegeta. En Super Dragon Ball Heroes, Vegito lleva un gi negro con una camiseta naranja en su interior y un obi azul atado sobre él en la cintura. También lleva los guantes y las botas blancas de Vegeta de Dragon Ball Z: La Resurrección de F.",
+  "ataque": 70000,
+  "imagen": "http://localhost:2800/resources/Vegito.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c388"
+  },
+  "nombre": "Gogeta",
+  "raza": "Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Gogeta es la fusión resultante de dos Saiyajinos muy poderosos, Goku y Vegeta, cuando realizan correctamente la Danza de la Fusión. Su voz es una voz dual que contiene las voces tanto de Goku como de Vegeta. Gogeta es famoso por su asombroso poder y velocidad, y es considerado uno de los personajes más poderosos en las series Dragon Ball Z y Dragon Ball GT. Su contraparte de la Fusión de Pothala es Vegito. Gogeta lleva la misma ropa que todas las creaciones de la Danza de la Fusión. Sin embargo, el chaleco de Gogeta tiene una combinación de colores diferente al de Gotenks: el acolchado alrededor del cuello y los hombros del chaleco es anaranjado rojizo en lugar de amarillo, y el chaleco es negro en lugar del chaleco azul oscuro que lleva Gotenks. Su cabello es muy similar al de Vegito, con las únicas diferencias de que Gogeta solo tiene un mechón de cabello suelto en lugar de dos y Gogeta tiene la entrada en pico de Vegeta. Gogeta también adquiere la piel similar a un durazno de Goku en lugar de adoptar el bronceado más suave de Vegeta. Gogeta posee la estructura corporal de Goku ya que es alto y delgado, pero parece poseer principalmente las características faciales de Vegeta.",
+  "ataque": 60000,
+  "imagen": "http://localhost:2800/resources/Gogeta.png"
+},
+{
+  "_id": {
+    "$oid": "6569d1bb9a21ae2a1f70c389"
+  },
+  "nombre": "Goku Black",
+  "raza": "Saiyajin",
+  "genero": "Masculino",
+  "biografia": "Goku Black, comúnmente conocido como Black, es el principal antagonista de la Saga de Trunks del Futuro de Dragon Ball Super. Su verdadera identidad es el Zamasu original del presente, un ex Kai del Norte y aprendiz de Kai Supremo que sirve al Kai Supremo del Universo 10, Gowasu, de la línea de tiempo principal no alterada, en la cual robó el cuerpo del Goku original del presente y buscó destruir a todos los mortales junto con el Zamasu del Futuro. Recibió el nombre de Goku Black de Bulma del Futuro cuando inicialmente se refería a sí mismo como Son Goku. Su apariencia original es la misma que la de su contraparte de la línea de tiempo del futuro, siendo un Kai de estatura superior de constitución delgada y piel verde, y con un mohawk blanco. Sin embargo, después de matar al Gowasu original del presente, llevó los aretes de Pothala dorados y verdes de su antiguo maestro. Después de robar el cuerpo del Goku original del presente, sufrió cambios físicos. Aunque sigue siendo esencialmente idéntico, tiene un tono de piel ligeramente más oscuro y ojos más definidos, junto con una constitución algo más delgada. Su cabello también es notablemente de un tono oscuro de negro con solo cuatro picos frontales y tres en la parte posterior. Aunque inicialmente llevaba su atuendo de Kai Supremo, poco después de tomar el cuerpo de Goku comenzó a llevar una túnica gris oscura sin mangas, una camiseta negra de manga larga con cuello alto, una faja roja, pantalones negros y botas blancas. También le dio el arete de Pothala derecho a su contraparte del futuro mientras aún llevaba el otro arete en su oreja izquierda. En el anime, también lleva un Anillo del Tiempo en el dedo índice derecho, mientras que en el manga, su contraparte es la encargada de llevarlo. Además, en el manga, tiene contornos oscuros alrededor de sus ojos.",
+  "ataque": 480000,
+  "imagen": "http://localhost:2800/resources/Goku_Black.png"
+}]
